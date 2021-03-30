@@ -19,9 +19,9 @@ Table of content:
 |Assignment|Links
 |----------|---------------------------------------------
 | class1   |[Introductory HTML and JavaScript](https://noorazar11.github.io/reading-notes/201/class1)|
-| class2   |[HTML Text, CSS Introduction,and Basic JavaScrip(https://noorazar11.github.io/reading-notes/201/class2)
+| class2   |[HTML Text, CSS Introduction,and Basic JavaScrip](https://noorazar11.github.io/reading-notes/201/class2)
 | class3   |[HTML Lists, CSS Boxes, JS Control Flow](https://noorazar11.github.io/reading-notes/201/class3)
-| class4   |[]()
+| class4   |[HTML Links, JS Functions, and Intro to CSS Layout](https://noorazar11.github.io/reading-notes/201/class4)
 | class5   | []()
 | class6   |[]()
 | class7   |[]()
