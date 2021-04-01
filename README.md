@@ -23,7 +23,7 @@ Table of content:
 | class3   |[HTML Lists, CSS Boxes, JS Control Flow](https://noorazar11.github.io/reading-notes/201/class3)
 | class4   |[HTML Links, JS Functions, and Intro to CSS Layout](https://noorazar11.github.io/reading-notes/201/class4)
 | class5   | [ HTML Images; CSS Color & Text](https://noorazar11.github.io/reading-notes/201/class5)
-| class6   |[]()
+| class6   |[Problem Domain, Objects, and the DOM](https://noorazar11.github.io/reading-notes/201/class6)
 | class7   |[]()
 | class8   |[]()
 | class9   |[]()
