@@ -24,7 +24,7 @@ Table of content:
 | class4   |[HTML Links, JS Functions, and Intro to CSS Layout](https://noorazar11.github.io/reading-notes/201/class4)
 | class5   | [ HTML Images; CSS Color & Text](https://noorazar11.github.io/reading-notes/201/class5)
 | class6   |[Problem Domain, Objects, and the DOM](https://noorazar11.github.io/reading-notes/201/class6)
-| class7   |[]()
+| class7   |[ Object-Oriented Programming, HTML Tables](https://noorazar11.github.io/reading-notes/201/class7)
 | class8   |[]()
 | class9   |[]()
 | class10  |[]()
