@@ -25,7 +25,7 @@ Table of content:
 | class5   | [ HTML Images; CSS Color & Text](https://noorazar11.github.io/reading-notes/201/class5)
 | class6   |[Problem Domain, Objects, and the DOM](https://noorazar11.github.io/reading-notes/201/class6)
 | class7   |[ Object-Oriented Programming, HTML Tables](https://noorazar11.github.io/reading-notes/201/class7)
-| class8   |[]()
+| class8   |[More CSS Layout](https://noorazar11.github.io/reading-notes/201/class8)
 | class9   |[]()
 | class10  |[]()
 | class11  |[]()
