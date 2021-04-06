@@ -23,12 +23,11 @@ unordered lis :
 2. circle
 3. square
 
- - The <table> tag defines an HTML table and <tr> element defines a table row, the <th> element defines a table header, and the <td> element defines a table cell.
+ - The table tag defines an HTML table and  tr element defines a table row, the th element defines a table header, and the td element defines a table cell.
 
 - To create  table borders in CSS, use the "border" property.
-table, th, td {
-  border: 1px solid black;
-}
+table, th, td  also border: 1px solid black;
+
 
 - Border on Empty Cells we can use : hide,show,inherit
 
