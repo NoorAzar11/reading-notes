@@ -1,8 +1,7 @@
-# reading-note-
+# Reading-Notes
 
-My name is Noor.
+## Table of content:
 
-Table of content:
 |Assignment| Links
 |----------|-------------------------------------------|
 |   Read1  |[The code's computer](102\read1.md)            |
@@ -14,7 +13,7 @@ Table of content:
 |Read6     |[CSS HTML Color](102\read6.md)                          |         
 |----------|-------------------------------------------|
 
-### Reading note 201 
+## Reading note 201 
 
 |Assignment|Links
 |----------|---------------------------------------------
@@ -26,7 +25,7 @@ Table of content:
 | class6   |[Problem Domain, Objects, and the DOM](https://noorazar11.github.io/reading-notes/201/class6)
 | class7   |[ Object-Oriented Programming, HTML Tables](https://noorazar11.github.io/reading-notes/201/class7)
 | class8   |[More CSS Layout](https://noorazar11.github.io/reading-notes/201/class8)
-| class9   |[]()
+| class9   |[Forms and JS Events](https://noorazar11.github.io/reading-notes/201/class9)
 | class10  |[]()
 | class11  |[]()
 | class12  |[]()
