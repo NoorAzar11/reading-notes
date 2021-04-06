@@ -57,16 +57,12 @@ table, th, td {
 - When JavaScript is used in HTML pages, JavaScript can "react" on these events.
 
 
+- Event  |Description                                           
+- onclick 	The user clicks an HTML element                    
+- onmouseover The user moves the mouse over an HTML element  
+- onmouseout The user moves the mouse away from an HTML element 
+- onkeydown he user pushes a keyboard key                      |
 
-
-
---------------------------------------------------------------------
-|Event	--- |Description                                            |
-|onclick ---|	The user clicks an HTML element                    |
-|onmouseover|	----The user moves the mouse over an HTML element  |
-|onmouseout--|-	The user moves the mouse away from an HTML element |
-|onkeydown	--|-The user pushes a keyboard key                      |
---------------------------------------------------------------------
 
 
 
