@@ -3,11 +3,11 @@
 - HTML form is a section of a document containing normal content, markup, special elements called controls (checkboxes, radio buttons, menus, ), and labels on those controls.
 
 - We used <form> to create input form for users. 
-<!-- 
+
 ![Forms](https://mobile.htmlgoodies.com/imagesvr_ce/1902/HTML%20Form.PNG)
 
 - Forms controls :
-![fomscontrols](https://image.slidesharecdn.com/lecture9-10-160807085530/95/html-forms-6-638.jpg?cb=1470560216) -->
+![fomscontrols](https://image.slidesharecdn.com/lecture9-10-160807085530/95/html-forms-6-638.jpg?cb=1470560216)
 
 - If you want to collect information from visitors you will need a form, which lives inside a
 <form > element.
@@ -26,15 +26,15 @@ unordered lis :
  - The <table> tag defines an HTML table and <tr> element defines a table row, the <th> element defines a table header, and the <td> element defines a table cell.
 
 - To create  table borders in CSS, use the "border" property.
-<!-- table, th, td {
+table, th, td {
   border: 1px solid black;
-} -->
+}
 
 - Border on Empty Cells we can use : hide,show,inherit
 
 - Gaps Between Cells: we use border-spacing, border-collapse.
 
-Cursor Styles allow you to control the mouse type . 
+ -Cursor Styles allow you to control the mouse type :
 1. auto
 2. crosshair
 3. default
@@ -51,19 +51,22 @@ Cursor Styles allow you to control the mouse type .
 
 -  HTML events are "things" that happen to HTML elements.
 
+![Events](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types.jpg) 
+
+
 - When JavaScript is used in HTML pages, JavaScript can "react" on these events.
 
+
+
+
+
 --------------------------------------------------------------------
-|Event	--- Description                                            |
-|onclick ---	The user clicks an HTML element                    |
-|onmouseover	----The user moves the mouse over an HTML element  |
-|onmouseout---	The user moves the mouse away from an HTML element |
-|onkeydown	---The user pushes a keyboard key                      |
+|Event	--- |Description                                            |
+|onclick ---|	The user clicks an HTML element                    |
+|onmouseover|	----The user moves the mouse over an HTML element  |
+|onmouseout--|-	The user moves the mouse away from an HTML element |
+|onkeydown	--|-The user pushes a keyboard key                      |
 --------------------------------------------------------------------
 
 
-<!-- 
 
-
-
-![Events](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types.jpg) -->
