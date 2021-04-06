@@ -2,7 +2,7 @@
 
 - HTML form is a section of a document containing normal content, markup, special elements called controls (checkboxes, radio buttons, menus, ), and labels on those controls.
 
-- We used <form> to create input form for users. 
+- We used <form-> to create input form for users. 
 
 ![Forms](https://mobile.htmlgoodies.com/imagesvr_ce/1902/HTML%20Form.PNG)
 
@@ -10,19 +10,19 @@
 ![fomscontrols](https://image.slidesharecdn.com/lecture9-10-160807085530/95/html-forms-6-638.jpg?cb=1470560216)
 
 - If you want to collect information from visitors you will need a form, which lives inside a
-<form > element.
+<form -> element.
 
 - <input type="email" -> is used for input fields that should contain an e-mail address.
 
 - Input Type Password <- input type="password"> defines a password field:
 
-## Lists,Tables and Forms :
+## Lists,"Tables" and "Forms" :
 
 unordered lis :
 1. disc
 2. circle
 3. square
-
+<!-- 
  - The table tag defines an HTML table and  tr element defines a table row, the th element defines a table header, and the td element defines a table cell.
 
 - To create  table borders in CSS, use the border property.
@@ -64,4 +64,4 @@ unordered lis :
 
 
 
-
+ -->
