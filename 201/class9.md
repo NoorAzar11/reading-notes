@@ -3,11 +3,11 @@
 - HTML form is a section of a document containing normal content, markup, special elements called controls (checkboxes, radio buttons, menus, ), and labels on those controls.
 
 - We used <form> to create input form for users. 
-
+<!-- 
 ![Forms](https://mobile.htmlgoodies.com/imagesvr_ce/1902/HTML%20Form.PNG)
 
 - Forms controls :
-![fomscontrols](https://image.slidesharecdn.com/lecture9-10-160807085530/95/html-forms-6-638.jpg?cb=1470560216)
+![fomscontrols](https://image.slidesharecdn.com/lecture9-10-160807085530/95/html-forms-6-638.jpg?cb=1470560216) -->
 
 - If you want to collect information from visitors you will need a form, which lives inside a
 <form > element.
@@ -62,8 +62,8 @@ Cursor Styles allow you to control the mouse type .
 --------------------------------------------------------------------
 
 
-![Events](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types.jpg)
+<!-- 
 
 
 
-
+![Events](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types.jpg) -->
