@@ -22,10 +22,10 @@ unordered lis :
 1. disc
 2. circle
 3. square
-<!-- 
- - The table tag defines an HTML table and  tr element defines a table row, the th element defines a table header, and the td element defines a table cell.
 
-- To create  table borders in CSS, use the border property.
+ - The tag defines an HTML  and  tr element defines a  row, the th element defines a  header, and the td element defines a  cell.
+
+- To create   borders in CSS, use the border property.
 ///table, ///th, ///td  also border: 1px solid black;
 
 
@@ -64,4 +64,4 @@ unordered lis :
 
 
 
- -->
+
