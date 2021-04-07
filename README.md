@@ -26,7 +26,7 @@
 | class7   |[ Object-Oriented Programming, HTML Tables](https://noorazar11.github.io/reading-notes/201/class7)
 | class8   |[More CSS Layout](https://noorazar11.github.io/reading-notes/201/class8)
 | class9   |[Forms and JS Events](https://noorazar11.github.io/reading-notes/201/class9)
-| class10  |[]()
+| class10  |[Readings : Debugging](https://noorazar11.github.io/reading-notes/201/class10)
 | class11  |[]()
 | class12  |[]()
 | class13  |[]()
