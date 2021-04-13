@@ -29,6 +29,6 @@
 | class10  |[Readings : Debugging](https://noorazar11.github.io/reading-notes/201/class10)
 | class11  |[Audio, Video, Images](https://noorazar11.github.io/reading-notes/201/class11)
 | class12  |[Chart.js, Canvas](https://noorazar11.github.io/reading-notes/201/class12)
-| class13  |[]()
+| class13  |[Local Storage](https://noorazar11.github.io/reading-notes/201/class13)
 | class15  |[]()
 |-------------------------------------------------------------
