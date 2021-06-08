@@ -40,7 +40,7 @@
 |Class1    |[Introduction to React and Components](https://noorazar11.github.io/reading-notes/301/class1)
 |Class2    |[State and Props](https://noorazar11.github.io/reading-notes/301/class2)
 |Class3    |[Readings: Passing Functions as Props](https://noorazar11.github.io/reading-notes/301/class3)
-|Class4    |[]()
+|Class4    |[React and Forms](https://noorazar11.github.io/reading-notes/301/class4)
 |Class5    |[]()
 |Class6    |[]()
 |Class7    |[]()
