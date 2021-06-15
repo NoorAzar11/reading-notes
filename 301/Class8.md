@@ -38,4 +38,4 @@ ID resource is a simple resource defined in XML that provides a unique identifie
 
 
    -  What status code does a successful DELETE request return?
-  there are several response status codes possible: A 202 ( Accepted) and not yet been enacted. A 204 ( No Content )
+  there are several response status codes possible: A 202 ( Accepted) and not yet been enacted. A 204 ( No Content ).
