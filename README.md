@@ -52,3 +52,9 @@
 |Class13   |[]()
 |Class14   |[]()
 |Class15   |[]()
+
+##  Get Ready for 401
+
+|Assignment|Links
+|----------|----------------------
+|Class1    |[Reading and Reference Materials]((https://noorazar11.github.io/reading-notes/401/class1)
