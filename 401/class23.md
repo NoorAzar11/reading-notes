@@ -7,7 +7,7 @@
 
 1. Why do we not need more .html pages in a multi-page React app?
 
- - Multi-page apps, we get back multiple HTML pages, where each page has content for given Router.
+- Multi-page apps, we get back multiple HTML pages, where each page has content for given Router.
 -  Multi-page apps, we only use React to create widgets.
 - Multipage apps, we split up our components but a lot of pages are going to be normal HTML pages, and widgets we dump in like an Image gallery that is managed by React, so the entire page is not under React control.
 - Because we build a react frontend client side that is a Single page Application, it's rendering the component that will render on the page not by render a new page.
